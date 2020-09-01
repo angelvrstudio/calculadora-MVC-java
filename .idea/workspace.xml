@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbf068d1-1404-4ed1-8324-e75c2474aeff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scannerwork/report-task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.scannerwork/report-task.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +37,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="513" y="280" width="509" height="290" key="#Project_Settings" timestamp="1598944191125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="513" y="280" width="509" height="290" key="#Project_Settings/0.0.1536.824/19.-2160.1536.824@0.0.1536.824" timestamp="1598944191125" />
+    <state x="0" y="157" key="#SonarLint" timestamp="1598944023420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="157" key="#SonarLint/0.0.1536.824/19.-2160.1536.824@0.0.1536.824" timestamp="1598944023420" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1598599063153">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/19.-2160.1536.824@0.0.1536.824" timestamp="1598599063153" />
-    <state x="277" y="0" key="SettingsEditor" timestamp="1598534002675">
+    <state x="277" y="0" key="SettingsEditor" timestamp="1598943214173">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="0" key="SettingsEditor/0.0.1536.824/19.-2160.1536.824@0.0.1536.824" timestamp="1598534002675" />
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824/19.-2160.1536.824@0.0.1536.824" timestamp="1598943214173" />
+    <state x="242" y="168" key="org.sonarlint.intellij.config.global.wizard.SQServerWizard$SonarQubeWizard" timestamp="1598943999978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="242" y="168" key="org.sonarlint.intellij.config.global.wizard.SQServerWizard$SonarQubeWizard/0.0.1536.824/19.-2160.1536.824@0.0.1536.824" timestamp="1598943999978" />
   </component>
 </project>
